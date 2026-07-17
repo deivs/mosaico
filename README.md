@@ -1,4 +1,4 @@
-# Estudio de Mosaicos 10x15
+﻿# Estudio de Mosaicos 10x15
 
 Aplicativo estatico para montar fotos em folhas 10x15 cm para impressao.
 
