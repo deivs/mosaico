@@ -8,7 +8,9 @@ Site: https://deivs.github.io/mosaico/
 
 ## Uso
 
-Abra o site, escolha a montagem e exporte JPGs ou PDF para imprimir.
+Abra o site, escolha a montagem e exporte JPGs ou PDF para imprimir. A opção
+`Borda` permite ligar/desligar a borda das fotos e ajustar a espessura antes da
+exportação.
 
 ## Observacao
 
